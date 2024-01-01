@@ -1,5 +1,5 @@
 {
-  "dependencies": {
-    "socket.io": "^4.7.2"
+  "devDependencies": {
+    "vite": "^5.0.10"
   }
 }
