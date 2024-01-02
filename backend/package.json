@@ -1,5 +1,9 @@
 {
   "devDependencies": {
+    "@types/socket.io": "^3.0.2",
     "vite": "^5.0.10"
+  },
+  "dependencies": {
+    "socket.io": "^4.7.2"
   }
 }
