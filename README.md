@@ -11,7 +11,7 @@ Welcome to **JustQuizzin**, the fun and interactive quizzing app where quizzes m
 
 **For the Quiz Wizards (Users):**
 - **Answer & Shine**: Dive into each question and submit your answers with ease.
-- **Stay Alert**: Keep an eye out! New questions pop up as the quiz progresses (no real-time pressure, just refreshing fun!).
+- **Stay Alert**: Keep an eye out! New questions pop up as the quiz progresses.
 
 ## How to Use JustQuizzin 🚀
 
@@ -25,7 +25,7 @@ Welcome to **JustQuizzin**, the fun and interactive quizzing app where quizzes m
 - **Fun & Engaging**: Who said quizzes had to be dull? Not us!
 - **User-Friendly**: Easy for both quiz masters and participants.
 - **Engage Your Audience**: Perfect for classrooms, online gatherings, and even corporate events.
-- **Flexible**: Polls without the need for real-time connections.
+
 
 
 
